@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Earthquake Problem Based Learning Project in Java🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project contains solution of the problems given in pdf file. This is a PBL coded in Java Language.",
+    url: "https://github.com/faisal-korejo/PBL",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hotel Management Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project is all about Hotel Management, which includes the managements of food facilities in hotel. It is coded in C++ language.",
+    url: "https://github.com/faisal-korejo/Hotel_Project",
   },
   {
-    title: "My Resume Site",
+    title: "Mini Web Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project was made for the purpose of implementing my skills in practice of web development. It includes htlm and css",
+    url: "https://github.com/faisal-korejo/Mini-Web-Project",
   },
 ];
 

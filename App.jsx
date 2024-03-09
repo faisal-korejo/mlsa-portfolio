@@ -6,11 +6,11 @@
 
 import React from "react";
 
-import About from "./Components/About";
-import Footer from "./Components/Footer";
-import Header from "./Components/Header";
-import Home from "./Components/Home";
-import Portfolio from "./Components/Portfolio";
+import About from "./src/Components/About.jsx";
+import Footer from "./src/Components/Footer.jsx";
+import Header from "./src/Components/Header.jsx";
+import Home from "./src/Components/Home.jsx";
+import Portfolio from "./src/Components/Portfolio.jsx";
 
 import "./styles.css";
 
@@ -24,15 +24,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Faisal Zama Korejo",
+  title: "Web Developer & Content Writer",
+  email: "faisalzama043@gmail.com",
+  gitHub: "https://github.com/faisal-korejo",
+  instagram: "https://www.instagram.com/iampessimist_.45/?hl=en",
+  linkedIn: "https://www.linkedin.com/in/faisal-zama-korejo-534717251/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
